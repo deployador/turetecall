@@ -16,8 +16,8 @@ feito pra conversar e jogar com os amigos sem pesar na máquina.
 ## 🚀 Como baixar (primeira vez)
 
 1. Clique em **Releases** aqui do lado (ou [abra as versões aqui](../../releases))
-2. Entre na versão de **maior número** (ex.: `v256`)
-3. Baixe o **`TureteCall-v256.exe`** e abra — não precisa instalar nada
+2. Entre na versão de **maior número** (ex.: `v257`)
+3. Baixe o **`TureteCall-v257.exe`** e abra — não precisa instalar nada
 
 > 💡 **Nunca mais precisa baixar daqui.**
 > Quando sair versão nova, o próprio app avisa com o sininho **🔔 Atualizações**:
